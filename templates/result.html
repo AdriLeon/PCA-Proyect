@@ -1,4 +1,4 @@
-$def with (img_pca, plot_path)
+$def with (img_pca)
 <!DOCTYPE html>
 <html>
 <head>
@@ -6,10 +6,11 @@ $def with (img_pca, plot_path)
 </head>
 <body>
     <h1>Resultados PCA</h1>
+    <a href="/">Regresar</a>
+    <!-- Grafico de disperción -->
+    <img src="/static/temp_plot.png" alt="Gráfico de Dispersión PCA">
+
     <p>Componentes principales:</p>
     <p>$img_pca</p>
-
-    <!-- Mostrar el gráfico de dispersión -->
-    <img src="/static/temp_plot.png" alt="Gráfico de Dispersión PCA">
 </body>
 </html>
