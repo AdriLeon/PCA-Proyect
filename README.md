@@ -11,8 +11,7 @@ El fin que esto puede tener acorde a los diversos usos que tiene son:
 - Detección de anomalías
 
 **Imagen insertada**
-<image src="/static/temp_plot.png" alt="Descripción de la imagen">
+<image src="/static/15LQrY.jpg" alt="Descripción de la imagen">
 
 **Grafica generada**
-<image src="/workspace/PCA-Proyect/static/temp_plot.png" alt="Descripción de la imagen">
-!(/workspace/PCA-Proyect/static/temp_plot.png)
+<image src="/static/temp_plot.png" alt="Descripción de la imagen">
