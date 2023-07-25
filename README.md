@@ -9,3 +9,9 @@ El fin que esto puede tener acorde a los diversos usos que tiene son:
 - Visualización de datos en imagenes
 - Clasificación y agrupación de imagenes
 - Detección de anomalías
+
+**Imagen insertada**
+!(/static/15LQrY.jpg)
+
+**Grafica generada**
+!(/static/temp_plot.png)
